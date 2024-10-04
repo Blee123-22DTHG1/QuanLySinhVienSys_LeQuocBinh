@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Quoc Binh\\source\\repos\\StudentManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0BC7B4-67EE-4774-878D-0DA1F93E3310}|StudentManagementApp\\StudentManagementApp.csproj|c:\\users\\quoc binh\\source\\repos\\studentmanagementapp\\studentmanagementapp\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EB0BC7B4-67EE-4774-878D-0DA1F93E3310}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0BC7B4-67EE-4774-878D-0DA1F93E3310}|StudentManagementApp\\StudentManagementApp.csproj|C:\\Users\\Quoc Binh\\source\\repos\\StudentManagementApp\\studentmanagementapp\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0BC7B4-67EE-4774-878D-0DA1F93E3310}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0BC7B4-67EE-4774-878D-0DA1F93E3310}|StudentManagementApp\\StudentManagementApp.csproj|C:\\Users\\Quoc Binh\\source\\repos\\StudentManagementApp\\studentmanagementapp\\form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0BC7B4-67EE-4774-878D-0DA1F93E3310}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0BC7B4-67EE-4774-878D-0DA1F93E3310}|StudentManagementApp\\StudentManagementApp.csproj|C:\\Users\\Quoc Binh\\source\\repos\\StudentManagementApp\\studentmanagementapp\\models\\studentcontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0BC7B4-67EE-4774-878D-0DA1F93E3310}|StudentManagementApp\\StudentManagementApp.csproj|solutionrelative:studentmanagementapp\\models\\studentcontextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc Binh\\source\\repos\\StudentManagementApp\\StudentManagementApp\\Form.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\Form.cs",
+              "ToolTip": "C:\\Users\\Quoc Binh\\source\\repos\\StudentManagementApp\\StudentManagementApp\\Form.cs",
+              "RelativeToolTip": "StudentManagementApp\\Form.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAIAwwMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:28:34.304Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc Binh\\source\\repos\\StudentManagementApp\\StudentManagementApp\\Form.Designer.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\Form.Designer.cs",
+              "ToolTip": "C:\\Users\\Quoc Binh\\source\\repos\\StudentManagementApp\\StudentManagementApp\\Form.Designer.cs",
+              "RelativeToolTip": "StudentManagementApp\\Form.Designer.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAApwMIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:38:47.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentContextDB.cs",
+              "DocumentMoniker": "C:\\Users\\Quoc Binh\\source\\repos\\StudentManagementApp\\StudentManagementApp\\Models\\StudentContextDB.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\Models\\StudentContextDB.cs",
+              "ToolTip": "C:\\Users\\Quoc Binh\\source\\repos\\StudentManagementApp\\StudentManagementApp\\Models\\StudentContextDB.cs",
+              "RelativeToolTip": "StudentManagementApp\\Models\\StudentContextDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:00:48.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Quoc Binh\\source\\repos\\StudentManagementApp\\StudentManagementApp\\Form.cs",
+              "RelativeDocumentMoniker": "StudentManagementApp\\Form.cs",
+              "ToolTip": "C:\\Users\\Quoc Binh\\source\\repos\\StudentManagementApp\\StudentManagementApp\\Form.cs [Design]",
+              "RelativeToolTip": "StudentManagementApp\\Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T12:10:37.106Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

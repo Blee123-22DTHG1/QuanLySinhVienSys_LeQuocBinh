@@ -1,0 +1,15 @@
+C:\Users\Quoc Binh\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.AssemblyReference.cache
+C:\Users\Quoc Binh\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.frmQuanLySinhVien.resources
+C:\Users\Quoc Binh\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.Properties.Resources.resources
+C:\Users\Quoc Binh\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.GenerateResource.cache
+C:\Users\Quoc Binh\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Quoc Binh\source\repos\StudentManagementApp\StudentManagementApp\bin\Debug\StudentManagementApp.exe.config
+C:\Users\Quoc Binh\source\repos\StudentManagementApp\StudentManagementApp\bin\Debug\StudentManagementApp.exe
+C:\Users\Quoc Binh\source\repos\StudentManagementApp\StudentManagementApp\bin\Debug\StudentManagementApp.pdb
+C:\Users\Quoc Binh\source\repos\StudentManagementApp\StudentManagementApp\bin\Debug\EntityFramework.dll
+C:\Users\Quoc Binh\source\repos\StudentManagementApp\StudentManagementApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Quoc Binh\source\repos\StudentManagementApp\StudentManagementApp\bin\Debug\EntityFramework.xml
+C:\Users\Quoc Binh\source\repos\StudentManagementApp\StudentManagementApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Quoc Binh\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\StudentM.507EE403.Up2Date
+C:\Users\Quoc Binh\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.exe
+C:\Users\Quoc Binh\source\repos\StudentManagementApp\StudentManagementApp\obj\Debug\StudentManagementApp.pdb
